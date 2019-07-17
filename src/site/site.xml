@@ -23,7 +23,6 @@
   <body>
     <links>
       <item name="Maven" href="https://maven.apache.org/"/>
-      <item name="Mavden" href="https://mavedn.apache.org/"/>
     </links>
 
     <menu>
@@ -31,5 +30,9 @@
     </menu>
 
     <menu ref="reports" />
+    
+    <menu name="搜索">
+        <item name="百度" href="http://baidu.com" />
+    </menu>
   </body>
 </project>

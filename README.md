@@ -6,3 +6,5 @@
 [流浪的家](http://www.91fox.cn/ )
 
 [ECMAScript 6 入门](http://es6.91fox.cn/ )
+
+[maven插件开发](https://peengtao123.github.io/foo)

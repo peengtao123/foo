@@ -1,5 +1,5 @@
 # foo
-一个maven 最简单的report插件示例，并生成网站
+一个maven 最简单的report插件示例，并生成网站a
 
 [百度](https://www.baidu.com )
 
